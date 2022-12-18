@@ -12,8 +12,7 @@
 
 - *It took me around 8 hours to complete the webpage.*
 
-# Live link of projects:
- [project 02]()
+# [Live project 02](https://roaring-seahorse-ac75d0.netlify.app/)
 
  ### Preview:
 
